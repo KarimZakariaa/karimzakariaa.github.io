@@ -30,20 +30,22 @@ projects:
 # social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
+  # facebook: karim.zakariaa
+  # linkedin: kareemzakaria
   # medium: @your_username
   # stackoverflow: your_user_id
   # twitter: your_username
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: C#
+    web_url: https://github.com/topics/csharp
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgS-rGAcMkrsbVhCl1qrfW0sPtEQYrfCZqsJOuUNSRiPt0eBU
 
-  - name: Web design
+  - name: WebApi
+    web_url: https://github.com/topics/webapi-2
+    image_url: https://www.hopetutors.com/wp-content/uploads/2017/03/webapi-training-in-chennai.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/300/full/angular2.png
